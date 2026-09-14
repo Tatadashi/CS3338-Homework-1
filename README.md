@@ -1,0 +1,1 @@
+For practicing GitHub Desktop and how to work together with git
